@@ -1,6 +1,7 @@
 <template>
   <div>
     <nav>
+      <img src="../assets/logo.png" width="5%" height="5%"/>
       <router-link class="spacing" to="/">Home</router-link>
       <router-link class="spacing" to="/about">About</router-link>
     </nav>
